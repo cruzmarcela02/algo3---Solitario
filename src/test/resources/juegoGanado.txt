@@ -1,0 +1,77 @@
+Fundacion
+Carta 1 CORAZON true
+Carta 2 CORAZON true
+Carta 3 CORAZON true
+Carta 4 CORAZON true
+Carta 5 CORAZON true
+Carta 6 CORAZON true
+Carta 7 CORAZON true
+Carta 8 CORAZON true
+Carta 9 CORAZON true
+Carta 10 CORAZON true
+Carta 11 CORAZON true
+Carta 12 CORAZON true
+Carta 13 CORAZON true
+
+Fundacion
+Carta 1 PICA true
+Carta 2 PICA true
+Carta 3 PICA true
+Carta 4 PICA true
+Carta 5 PICA true
+Carta 6 PICA true
+Carta 7 PICA true
+Carta 8 PICA true
+Carta 9 PICA true
+Carta 10 PICA true
+Carta 11 PICA true
+Carta 12 PICA true
+Carta 13 PICA true
+
+Fundacion
+Carta 1 TREBOL true
+Carta 2 TREBOL true
+Carta 3 TREBOL true
+Carta 4 TREBOL true
+Carta 5 TREBOL true
+Carta 6 TREBOL true
+Carta 7 TREBOL true
+Carta 8 TREBOL true
+Carta 9 TREBOL true
+Carta 10 TREBOL true
+Carta 11 TREBOL true
+Carta 12 TREBOL true
+Carta 13 TREBOL true
+
+Fundacion
+Carta 1 DIAMANTE true
+Carta 2 DIAMANTE true
+Carta 3 DIAMANTE true
+Carta 4 DIAMANTE true
+Carta 5 DIAMANTE true
+Carta 6 DIAMANTE true
+Carta 7 DIAMANTE true
+Carta 8 DIAMANTE true
+Carta 9 DIAMANTE true
+Carta 10 DIAMANTE true
+Carta 11 DIAMANTE true
+Carta 12 DIAMANTE true
+Carta 13 DIAMANTE true
+
+Pila
+
+Pila
+
+Pila
+
+Pila
+
+Pila
+
+Pila
+
+Pila
+
+Talon
+
+Descarte

@@ -1,0 +1,137 @@
+Pila
+Carta 13 PICA false
+Carta 12 PICA true
+Carta 11 PICA true
+Carta 10 PICA true
+Carta 9 PICA true
+Carta 8 PICA true
+Carta 7 PICA true
+
+Pila
+Carta 13 PICA true
+
+Pila
+Carta 6 PICA true
+Carta 5 PICA true
+Carta 4 PICA true
+Carta 3 PICA true
+Carta 2 PICA true
+Carta 1 PICA true
+
+Pila
+Carta 12 PICA true
+Carta 11 PICA true
+Carta 10 PICA true
+Carta 9 PICA true
+Carta 8 PICA true
+Carta 7 PICA true
+Carta 6 PICA true
+Carta 5 PICA true
+Carta 4 PICA true
+Carta 3 PICA true
+Carta 2 PICA true
+Carta 1 PICA true
+
+Pila
+
+Pila
+
+Pila
+
+Pila
+
+Pila
+
+Pila
+
+PilaCompleta
+Carta 1 PICA true
+Carta 2 PICA true
+Carta 3 PICA true
+Carta 4 PICA true
+Carta 5 PICA true
+Carta 6 PICA true
+Carta 7 PICA true
+Carta 8 PICA true
+Carta 9 PICA true
+Carta 10 PICA true
+Carta 11 PICA true
+Carta 12 PICA true
+Carta 13 PICA true
+
+PilaCompleta
+Carta 1 PICA true
+Carta 2 PICA true
+Carta 3 PICA true
+Carta 4 PICA true
+Carta 5 PICA true
+Carta 6 PICA true
+Carta 7 PICA true
+Carta 8 PICA true
+Carta 9 PICA true
+Carta 10 PICA true
+Carta 11 PICA true
+Carta 12 PICA true
+Carta 13 PICA true
+
+PilaCompleta
+Carta 1 PICA true
+Carta 2 PICA true
+Carta 3 PICA true
+Carta 4 PICA true
+Carta 5 PICA true
+Carta 6 PICA true
+Carta 7 PICA true
+Carta 8 PICA true
+Carta 9 PICA true
+Carta 10 PICA true
+Carta 11 PICA true
+Carta 12 PICA true
+Carta 13 PICA true
+
+PilaCompleta
+Carta 1 PICA true
+Carta 2 PICA true
+Carta 3 PICA true
+Carta 4 PICA true
+Carta 5 PICA true
+Carta 6 PICA true
+Carta 7 PICA true
+Carta 8 PICA true
+Carta 9 PICA true
+Carta 10 PICA true
+Carta 11 PICA true
+Carta 12 PICA true
+Carta 13 PICA true
+
+PilaCompleta
+Carta 1 PICA true
+Carta 2 PICA true
+Carta 3 PICA true
+Carta 4 PICA true
+Carta 5 PICA true
+Carta 6 PICA true
+Carta 7 PICA true
+Carta 8 PICA true
+Carta 9 PICA true
+Carta 10 PICA true
+Carta 11 PICA true
+Carta 12 PICA true
+Carta 13 PICA true
+
+PilaCompleta
+Carta 1 PICA true
+Carta 2 PICA true
+Carta 3 PICA true
+Carta 4 PICA true
+Carta 5 PICA true
+Carta 6 PICA true
+Carta 7 PICA true
+Carta 8 PICA true
+Carta 9 PICA true
+Carta 10 PICA true
+Carta 11 PICA true
+Carta 12 PICA true
+Carta 13 PICA true
+
+Talon
