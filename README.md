@@ -6,4 +6,4 @@
 - Cruz Marcela 110066
 - Taylor Alan 110034
 
-[Página de la catedra] ((https://algoritmos3ce.github.io/))
+[Página de la catedra] (https://algoritmos3ce.github.io/)
